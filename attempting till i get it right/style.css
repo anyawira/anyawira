@@ -1,0 +1,15 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: -8px;
+}
+.content{
+    max-width: 1500px;
+}
+.left-btn{
+    left: auto;
+    color: white;
+}
+.right-btn{
+    right: auto;
+    color: white;
+}
