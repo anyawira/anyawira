@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Introduction{
+    width: 800px;
+    margin: auto;
+    text-align: none;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    color: aqua;
+}
+.list{
+    align-items: space-between;
+    width: 900;
+    height: fit-content;
+    margin: 10px 20px;
+    
+}
+.table{
+    border: 1px;
+    border-color: black;
+    margin: 30px;
+    
+}
+.table thead tr th{
+    color: black;
+    text-align: center;
+}
+.table tbody tr td{
+    color: chocolate;
+}
+.table tfoot tr td{
+    color: cornflowerblue;
+}
+.sidebysidearticles{
+    width: 100%;
+    overflow: auto;
+}
+.sidebysidearticles div{
+    width: 33%;
+    float: left;
+}
+img{
+    width: 100%;
+    cursor: pointer;
+}
+.anniversarytimer p{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 0;
+}
