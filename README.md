@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anyawira
-- 👀 I’m interested in crochet and curently coding.
+- 👀 I’m interested in crochet and currently coding.
 - 🌱 I’m currently learning python and HTML.
 - 💞️ I’m looking to collaborate on python and HTML.
 - 📫 How to reach me on my intagram, @angel_atreasure
